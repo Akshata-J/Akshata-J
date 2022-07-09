@@ -1,12 +1,10 @@
-### Hi there, I am Akshata (AaeJae) 👋
+### Hi there 👋
 
-<!--
-**Akshata-J/Akshata-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently pursuing my Masters in Information Systems from Northeastern University with inclination in data
-- 🌱 I’m currently learning and improving my skills w.r.t ETL, data cleaning and analysis using python 
-- 📫 How to reach me: 
-✉️[Email](jadhav.ak@northeastern.edu)
-🏛[LinkedIn](https://www.linkedin.com/in/akshata-j/)
+- 🌸  I'm Akshata (AaeJae) a Software Engineer transitioning towards Data Engineering
+- 🔭  I’m currently pursuing my Masters in Information Systems from Northeastern University
+- 🤖  I'm interested in Data analysis and drawing insights through visualisations 
+- 🌱  I’m currently learning and improving my skills in ETL, data cleaning and analysis using python 
+- 📫  How to reach me: 
+  - 🏛  [LinkedIn](https://www.linkedin.com/in/akshata-j/)
+  - ✉️  [jadhav.ak@northeastern.edu](jadhav.ak@northeastern.edu)
